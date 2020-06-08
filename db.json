@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "categoria": "Tarjeta de video",
+        "marca": "MSI",
+        "modelo": "NVIDIA GeForce 1050 TI",
+        "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, ad! Doloribus, nemo.",
+        "precio": "150000",
+        "stock": 15,
+        "proveedor": "PC Factory"   
+    },
+    {
+        "id": 2,
+        "categoria": "Monitor",
+        "marca": "Phillips",
+        "modelo": "247E Wide Screen 21 pulgadas",
+        "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, ad! Doloribus, nemo.",
+        "precio": "125000",
+        "stock": 35,
+        "proveedor": "SP Digital"   
+    }
+]
