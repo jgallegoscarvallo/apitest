@@ -1,5 +1,5 @@
 {
-    "posts": [
+    "productos": [
         {
             "id": 1,
             "categoria": "Tarjeta de video",
@@ -21,16 +21,126 @@
             "proveedor": "SP Digital" 
         }
     ],
-    "comments": [
+    "proveedores": [
         {
             "id": 1,
-            "body": "some comment",
-            "postId": 1
+            "proveedor": "CompuCenter",
+            "razon": "CompuCenter S.A",
+            "contacto": "Claudia Rosales",
+            "email": "ventas@compucenter.cl",
+            "telefono": 987987899,
+            "direccion":"Av. Las Condes 3456",
+            "ciudad": "Santiago",
+            "comuna": "Las Condes",
+            "estado": false        
         },
         {
             "id": 2,
-            "body": "some comment",
-            "postId": 1
+            "proveedor": "Microsoft",
+            "razon": "Microsoft S.A",
+            "contacto": "Guillermo Puertas",
+            "email": "productos@outlook.cl",
+            "telefono": 965874261,
+            "direccion":"Av. Ventanas 1548",
+            "ciudad": "Santiago",
+            "comuna": "Huechuraba",
+            "estado": true
+        },
+        {
+            "id": 3,
+            "proveedor": "Voidustries",
+            "razon": "Voidustries S.A",
+            "contacto": "Josep Sáenz",
+            "email": "ventas@voidustries.com",
+            "telefono": 921522697,
+            "direccion":"Calle Sarmiento De Gamboa, 890",
+            "ciudad": "Punta Arenas",
+            "comuna": "Punta Arenas",
+            "estado": false
+        },
+        {
+            "id": 4,
+            "proveedor": "Apexshack",
+            "razon": "Apexshack S.A",
+            "contacto": "Ignacio Oñate",
+            "email": "ig.onate@apexshack.cl",
+            "telefono": 943182720,
+            "direccion":"Calle Santa Rosa, 01726",
+            "ciudad": "Santiago",
+            "comuna": "Puente Alto",
+            "estado": true
+        },
+        {
+            "id": 5,
+            "proveedor": "Rushcorp",
+            "razon": "Rushcorp S.A",
+            "contacto": "Patricia Cueva",
+            "email": "ventas@rushcorp.cl",
+            "telefono": 983727947,
+            "direccion":"Avenida Carrascal, 3332",
+            "ciudad": "Santiago",
+            "comuna": "Quinta Normal",
+            "estado": true
+        },
+        {
+            "id": 6,
+            "proveedor": "Alphasearch",
+            "razon": "Alphasearch S.A",
+            "contacto": "Valeria Ramos",
+            "email": "valeram@alphaserch.cl",
+            "telefono": 987780942,
+            "direccion":"Calle Guadarrama, 1287",
+            "ciudad": "Santiago",
+            "comuna": "Las Condes",
+            "estado": true
+        },
+        {
+            "id": 7,
+            "proveedor": "Antelligence",
+            "razon": "Antelligence S.A",
+            "contacto": "Juan Rey",
+            "email": "juan.rey@antelligence.cl",
+            "telefono": 911996214,
+            "direccion":"Calle José Francisco Blümell, 0486",
+            "ciudad": "Antofagasta",
+            "comuna": "Antofagasta",
+            "estado": true
+        },
+        {
+            "id": 8,
+            "proveedor": "Ridgeco",
+            "razon": "Ridgeco S.A",
+            "contacto": "Iker Rabellini",
+            "email": "i.rabellinis@ridgeco.cl",
+            "telefono": 986575957,
+            "direccion":"Camino San Alberto Hurtado, 0 - Km. 25 1/2 Lote 16-17 Ruta 76",
+            "ciudad": "Santiago",
+            "comuna": "Padre Hurtado",
+            "estado": true
+        },
+        {
+            "id": 9,
+            "proveedor": "Lucentcoms",
+            "razon": "Lucentcoms S.A",
+            "contacto": "Francisco Jose Bailén",
+            "email": "fcobailen@lucent.cl",
+            "telefono": 941359138,
+            "direccion":"Calle Santo Domingo, 1160 - Of. 303",
+            "ciudad": "Santiago",
+            "comuna": "Santiago",
+            "estado": true
+        },
+        {
+            "id": 10,
+            "proveedor": "Moonlit Softwares",
+            "razon": "Moonlit Softwares S.A",
+            "contacto": "Markel Rivera",
+            "email": "productos@moonsoft.cl",
+            "telefono": 923345534,
+            "direccion":"Avenida Balmaceda, 2930",
+            "ciudad": "Santiago",
+            "comuna": "La Serena",
+            "estado": true
         }
     ],
     "profile": {
