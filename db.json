@@ -8,7 +8,7 @@
             "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, ad! Doloribus, nemo.",
             "precio": "150000",
             "stock": 15,
-            "proveedor": "PC Factory"   
+            "proveedor": "Rushcorp"   
         },
         {
             "id": 2,
@@ -18,7 +18,7 @@
             "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, ad! Doloribus, nemo.",
             "precio": "125000",
             "stock": 35,
-            "proveedor": "SP Digital" 
+            "proveedor": "CompuCenter" 
         }
     ],
     "proveedores": [
