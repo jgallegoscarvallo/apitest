@@ -1,7 +1,7 @@
 {
     "productos": [
         {
-            "codigo": 1,
+            "id": 1,
             "marca": "MSI",
             "modelo": "NVIDIA GeForce 1050 TI",
             "stock": 15,
@@ -11,7 +11,7 @@
             "proveedor": "Rushcorp"
         },
         {
-            "codigo": 2,
+            "id": 2,
             "marca": "Phillips",
             "modelo": "247E Wide Screen 21 pulgadas",
             "stock": 35,
