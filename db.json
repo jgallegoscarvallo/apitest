@@ -6,7 +6,7 @@
             "modelo": "NVIDIA GeForce 1050 TI",
             "stock": 15,
             "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, ad! Doloribus, nemo.",
-            "tipo_Producto": "Tarjeta de video",
+            "tipo_Producto": "TARJETA DE VIDEO",
             "precio": "150000",
             "proveedor": "Rushcorp"
         },
@@ -16,7 +16,7 @@
             "modelo": "247E Wide Screen 21 pulgadas",
             "stock": 35,
             "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, ad! Doloribus, nemo.",            
-            "tipo_Producto": "Monitor",
+            "tipo_Producto": "MONITOR",
             "precio": "125000",
             "proveedor": "CompuCenter" 
         }
