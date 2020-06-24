@@ -147,10 +147,34 @@
         {
             "id": 1,
             "nombre_contacto": "Margarita Robles",
-            "direccion_contacto:": "Álvarez 2365",
+            "direccion_contacto": "Álvarez 2365",
             "ciudad": "Viña del Mar",
             "comuna": "Viña del Mar",
             "telefono": 322268700            
+        }
+    ],
+    "empresa_transporte": [
+        {
+            "id": 1,
+            "empresa": "Chilexpress",
+            "servicio": "Despacho a bodega, entrega al día habil siguiente",
+            "precio": "5800"         
+        },
+        {
+            "id": 2,
+            "empresa": "Starken",
+            "servicio": "Despacho a bodega, entrega dentro de 48 hrs",
+            "precio": "4000"         
+        }
+    ],
+    "info_facturacion": [
+        {
+            "id": 1,
+            "rut_empresa": "80365547-8",
+            "razon_social": "Adquisiciones S.A",
+            "direccion": "Álvarez 2365",
+            "contacto": "Margarita Robles",
+            "tipo_documento": "Factura"           
         }
     ],
     "profile": {
