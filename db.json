@@ -143,6 +143,16 @@
             "estado": true
         }
     ],
+    "direccion_despacho": [
+        {
+            "id": 1,
+            "nombre_contacto": "Margarita Robles",
+            "direccion_contacto:": "Álvarez 2365",
+            "ciudad": "Viña del Mar",
+            "comuna": "Viña del Mar",
+            "telefono": 322268700            
+        }
+    ],
     "profile": {
         "name": "ukraken"
     }
