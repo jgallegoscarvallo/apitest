@@ -92,14 +92,11 @@
             "precio": "4000"         
         }
     ],
-    "info_facturacion": [
+    "adquisicion": [
         {
             "id": 1,
-            "rut_empresa": "80365547-8",
-            "razon_social": "Adquisiciones S.A",
-            "direccion": "Álvarez 2365",
-            "contacto": "Margarita Robles",
-            "tipo_documento": "Factura"           
+            "userid": "80365547-8",
+            "monto": "Adquisiciones S.A"
         }
     ]
 }
