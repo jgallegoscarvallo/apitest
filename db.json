@@ -7,7 +7,7 @@
             "stock": 15,
             "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, ad! Doloribus, nemo.",
             "tipo_Producto": "TARJETA DE VIDEO",
-            "precio": "150000",
+            "precio": 150000,
             "proveedor": "Rushcorp"
         },
         {
@@ -17,7 +17,7 @@
             "stock": 35,
             "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, ad! Doloribus, nemo.",            
             "tipo_Producto": "MONITOR",
-            "precio": "125000",
+            "precio": 125000,
             "proveedor": "CompuCenter" 
         }
     ],
