@@ -24,8 +24,13 @@
     "stock": [
         {
             "id": 1,
-            "idprod": 20,
+            "idprod": 1,
             "stock": 15   
+        },
+        {
+            "id": 2,
+            "idprod": 2,
+            "stock": 5   
         }
            
     ],
