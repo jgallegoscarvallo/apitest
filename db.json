@@ -21,50 +21,11 @@
             "proveedor": "CompuCenter" 
         }
     ],
-    "proveedores": [
+    "stock": [
         {
             "id": 1,
-            "proveedor": "CompuCenter",
-            "razon": "CompuCenter S.A",
-            "rut": "80.361.254-6",
-            "contacto": "Claudia Rosales",
-            "email": "ventas@compucenter.cl",
-            "telefono": 987987899,
-            "direccion":"Av. Las Condes 3456",            
-            "estado": "Activo"        
-        },
-        {
-            "id": 2,
-            "proveedor": "Microsoft",
-            "razon": "Microsoft S.A",
-            "rut": "72.362.145-5",
-            "contacto": "Guillermo Puertas",
-            "email": "productos@outlook.cl",
-            "telefono": 965874261,
-            "direccion":"Av. Ventanas 1548",            
-            "estado": "Activo" 
-        },
-        {
-            "id": 3,
-            "proveedor": "Voidustries",
-            "razon": "Voidustries S.A",
-            "rut": "65.587.145-7",
-            "contacto": "Josep Sáenz",
-            "email": "ventas@voidustries.com",
-            "telefono": 921522697,
-            "direccion":"Calle Sarmiento De Gamboa, 890",            
-            "estado": "Inactivo"
-        },
-        {
-            "id": 4,
-            "proveedor": "Ridgeco",
-            "razon": "Ridgeco S.A",
-            "rut": "84.412.965-2",
-            "contacto": "Iker Rabellini",
-            "email": "i.rabellinis@ridgeco.cl",
-            "telefono": 986575957,
-            "direccion":"Camino San Alberto Hurtado, 0 - Km. 25 1/2 Lote 16-17 Ruta 76",           
-            "estado": "Activo"
+            "idprod": 20,
+            "stock": 15   
         }
            
     ],
